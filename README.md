@@ -5,7 +5,7 @@ App_lib:~
 |
 |--->main.dart
 |
-|---->scr
+|---->scr.
 	|
 	|----->core
 	|      |
