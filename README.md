@@ -8,12 +8,12 @@ App_lib:~
 |---->scr
 	|
 	|----->core
-	|	     |
-	|	     |----->extensions
+	|      |
+	|      |----->extensions
   |      |   |
   |      |   |----->string_extensions.dart
-	|	     |
-	|	     |----->app_assets.dart
+	|      |
+	|      |----->app_assets.dart
 	|	     |
 	|	     |----->app_colors.dart
 	|	     |
